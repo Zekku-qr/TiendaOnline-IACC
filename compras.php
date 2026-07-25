@@ -143,7 +143,7 @@ require_once("includes/navbar.php");
 
 
 <h1>
-Registrar pedido
+Gestion de pedidos
 </h1>
 
 <div class="alerta-info">
